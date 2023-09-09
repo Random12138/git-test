@@ -11,6 +11,7 @@ public class GitTestApplication {
         System.out.println("+++++++");
         System.out.println("///////");
         System.out.println("#######");
+        System.out.println("#######-pull");
         SpringApplication.run(GitTestApplication.class, args);
     }
 
